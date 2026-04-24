@@ -1,6 +1,6 @@
 ---
 name: lecture-transcript
-description: 将PPT课件转换为大学老师讲课风格的口语化逐字稿。当用户提供PPT内容要求生成讲课稿、逐字稿、或口语化教学内容时使用此skill。
+description: 将PPT课件转换为大学老师讲课风格的口语化逐字稿。当用户提供PPT内容要求生成讲课稿、逐字稿、或口语化教学内容时请使用此skill。
 version: 1.1.0
 ---
 

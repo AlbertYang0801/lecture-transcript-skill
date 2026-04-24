@@ -8,7 +8,7 @@
 
 ```bash
 mkdir -p .claude/skills
-git clone https://github.com/<你的用户名>/lecture-transcript-skill.git .claude/skills/lecture-transcript-skill
+git clone https://github.com/AlbertYang0801/lecture-transcript-skill.git .claude/skills/lecture-transcript-skill
 ```
 
 ## 使用
